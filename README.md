@@ -4,4 +4,7 @@ Google takeout data gives you a json files which can be messy. Cleaning it to ma
 To know more on to How to get your Google Maps Data Read my blog here:
 https://yashsakhuja.medium.com/extracting-your-google-maps-data-for-analysis-1848ca7a19e9
 
-
+Key Concepts
+1) Reading Json Files in Python
+2) Converting Json to CSV
+3) Advanced operations with lists and dictionaries
